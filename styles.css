@@ -1,0 +1,24 @@
+body{
+background-color: beige;
+
+}
+
+h1{
+    background-color: red;
+    height: 50 pxs;
+}
+
+a{
+    background-color: cornflowerblue;
+    display: inline-block;
+    width: 500 pxs;
+    height: 500 pxs;
+}
+
+.caja{
+    display: inline-block;
+    width: 100 pxs;
+    height: 800 pxs;
+    background-color: aqua;
+
+}
